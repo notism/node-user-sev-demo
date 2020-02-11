@@ -1,0 +1,17 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "MongoDB": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb+srv://nothomeboy:!qaz2wsx@cluster0-cswgr.mongodb.net/demo-api?retryWrites=true&w=majority",
+    "database": "demo-api",
+    "password": "!qaz2wsx",
+    "name": "MongoDB",
+    "user": "nothomeboy",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
